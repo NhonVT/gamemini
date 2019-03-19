@@ -25,7 +25,7 @@
                 alert('hết thời gian, rất tiếc bạn đã thua !!');
             },500)
         } 
-    }, 700);
+    }, 210);
 
     $('.acne-small').on('click',function(e){
         var offset = $(this).offset();
